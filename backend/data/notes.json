@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1794913987836,
+    "noteTitle": "My first note",
+    "noteContent": "this is my first note",
+    "noteCategory": "Personal",
+    "noteTags": [
+      "personal",
+      "first"
+    ],
+    "isPinned": true,
+    "isArchived": true,
+    "createdAt": 1794913987836,
+    "updatedAt": 1794913987836
+  },
+  {
+    "id": 1794914834461,
+    "noteTitle": "fush",
+    "noteContent": "bush tush kush",
+    "noteCategory": "Personal",
+    "noteTags": [
+      "lamba",
+      "komba"
+    ],
+    "isPinned": false,
+    "isArchived": false,
+    "createdAt": 1794914834461,
+    "updatedAt": 1794914834461
+  }
+]
